@@ -8,8 +8,6 @@
 
 ## Dépôts GitHub
 
-| Partie | Nom du dépôt | Lien |
-| --- | --- | --- |
-| Base de données | `4a-isi-projet-db` | `https://github.com/RalphYounes/4a-isi-projet-db` |
-| Backend | `4a-isi-projet-back` | `https://github.com/kyp022/4a-isi-projet-back` |
-| Frontend | `4a-isi-projet-front-akaz` | `https://github.com/AKaz23/4a-isi-projet-front-akaz` |
+Base de données | `4a-isi-projet-db` | `https://github.com/RalphYounes/4a-isi-projet-db` |
+Backend | `4a-isi-projet-back` | `https://github.com/kyp022/4a-isi-projet-back` |
+Frontend | `4a-isi-projet-front-akaz` | `https://github.com/AKaz23/4a-isi-projet-front-akaz` |
